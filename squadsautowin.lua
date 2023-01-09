@@ -1,4 +1,4 @@
-
+repeat wait() until game:IsLoaded()
 
 --i found stuff on v3rm to add to the obfuscator so credits to that ppl in v3rm
 --Protected by npmFuscator(1.3)
